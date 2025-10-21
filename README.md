@@ -41,7 +41,11 @@ This project demonstrates full-duplex communication between a server and multipl
 📦 **Future Enhancements**
 
 🧑‍💻 GUI Interface (JavaFX / Swing)
+
 📩 Private messaging (/msg username text)
+
 🗄️ Chat history storage in database
+
 🔐 Strong encryption (AES)
+
 🌐 WebSocket support for browser chat
